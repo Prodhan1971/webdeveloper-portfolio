@@ -73,6 +73,16 @@ nav a{
 .banner .profle-pic{
     width: 500px;
 }
+/* personal edit */
+.developerpic{
+    position: absolute;
+    height: 700px;
+    top: 20px;
+    bottom: 30px;
+    left: 35px;
+    /* width="700";  if i put this attribute on the image tag */
+    
+}
 .banner-greetinng{
     font-size: 45px;
     color: #474747;
