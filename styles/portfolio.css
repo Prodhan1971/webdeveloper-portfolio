@@ -55,6 +55,12 @@ nav a{
     color: #474747;
 }
 /* header related style */
+/* .header{
+    background-color: #fff8f3;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, top left;
+} */
 .header{
     background-color: #fff8f3;
     background-image: url('../images/header_bg.png');
@@ -80,8 +86,6 @@ nav a{
     top: 20px;
     bottom: 30px;
     left: 35px;
-    /* width="700";  if i put this attribute on the image tag */
-    
 }
 .banner-greetinng{
     font-size: 45px;
